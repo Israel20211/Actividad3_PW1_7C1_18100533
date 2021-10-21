@@ -1,0 +1,39 @@
+*{
+  background-color:WhiteSmoke;
+  color: black;
+  margin: 5px;
+}
+header h1{
+  font-size: 40px;
+  text-align: center;
+}
+header h1:hover{
+  font-size: 50px;
+  color: lightblue;
+}
+section{
+  border: 2px solid black;
+  max-width: 80%;
+  margin: auto;
+}
+img{
+  margin: 5px;
+  width: 32%;
+  height: 32%;
+}
+a{
+  border: none;
+  text-decoration: none;
+  display: inline;
+  margin: auto;
+}
+#btn{
+  border: none;
+  align-items: center;
+  margin: auto;
+}
+.img{
+  width: 100px;
+}
+
+
